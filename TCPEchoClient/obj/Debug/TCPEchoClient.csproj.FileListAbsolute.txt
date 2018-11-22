@@ -1,0 +1,20 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe.config
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.csprojResolveAssemblyReference.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.pdb
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe.config
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.pdb
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.csprojAssemblyReference.cache
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.csproj.CoreCompileInputs.cache
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.exe
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.pdb
+C:\Users\theke\source\repos\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe.config
+C:\Users\theke\source\repos\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe
+C:\Users\theke\source\repos\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.pdb
+C:\Users\theke\source\repos\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.csprojAssemblyReference.cache
+C:\Users\theke\source\repos\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.csproj.CoreCompileInputs.cache
+C:\Users\theke\source\repos\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.exe
+C:\Users\theke\source\repos\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.pdb
